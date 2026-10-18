@@ -10,8 +10,10 @@ int main() {
             }
         }
         if(dem==2){
-            printf("%d",i);
+            printf("%d ",i);
         }
+        dem=0;
     }
+    
     return 0;
 }
